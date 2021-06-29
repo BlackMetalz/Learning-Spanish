@@ -1,5 +1,24 @@
-el gato: The cat
-esto cocinando: I am cooking
-cocinero: cook
-en que servidor: in which server
-Tengo 29 años : I am 29 years-old /I am 29 years
+- esto cocinando: I am cooking
+- en que servidor: in which server
+- Tengo 29 años : I am 29 years-old /I am 29 years
+
+sustantivo ( noun ):
+- Gato: cat  ( el gato : the cat )
+- cocinando : Cooking ( cocinero : cook )
+- servidor: server
+- casa: house
+- cene: dinner
+- cima: top
+- cosa: thing
+- alguna: some
+- alguna cosa(s) : something(s)
+- cuna : cradle (rack/hold)
+- cucaracha : cockroad
+- coche : car
+- chichi: baby
+- chuleta de cochino: pork chop
+- gente: people
+- mi: my
+- gigante: giant
+- gorra: cap
+- gusano: worm
