@@ -23,3 +23,6 @@ sustantivo ( noun ):
 - gigante: giant
 - gorra: cap
 - gusano: worm
+- amiga: lady friend, female
+- amigo: man friend, male
+- estupendo: great
