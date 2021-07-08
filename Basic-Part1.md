@@ -3,6 +3,7 @@
 - Tengo 29 años : I am 29 years-old /I am 29 years
 
 sustantivo ( noun ):
+- conecta: connect ( conectado : connected )
 - Gato: cat  ( el gato : the cat )
 - cocinando : Cooking ( cocinero : cook )
 - servidor: server
